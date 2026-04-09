@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Foil</title>
+  <rect width="64" height="64" rx="12" fill="#f4f1ea" />
+  <path
+    d="M 10 34 C 10 25, 22 18, 52 28 C 40 31, 24 38, 10 34 Z"
+    fill="none"
+    stroke="#1a1a1a"
+    stroke-width="3"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M 8 34 H 56"
+    stroke="#9ca3af"
+    stroke-width="1.5"
+    stroke-dasharray="3 3"
+    opacity="0.8"
+  />
+</svg>
