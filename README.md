@@ -4,6 +4,8 @@ An interactive airfoil configuration study focused on how flaps and slats affect
 
 Live site: [https://augustave.github.io/foil/](https://augustave.github.io/foil/)
 
+<img width="561" height="272" alt="Screenshot 2026-04-09 at 11 47 05 AM" src="https://github.com/user-attachments/assets/c6b52dc2-04ab-4f1c-a5ba-4ef0e75219ec" />
+
 ## What it does
 
 - Compares six airfoil configurations from baseline through multi-element high-lift systems
